@@ -1,5 +1,6 @@
 
 export const environment = {
   production: true,
-  apiUrl: 'https://your-production-url.com/api'
+  apiUrl: 'http://13.218.200.60:3001/api'
 };
+
